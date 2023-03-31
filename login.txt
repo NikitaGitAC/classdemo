@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 username
 passworld
+=======
+welcome login page
+>>>>>>> e4527f42c4f4afe13f05340ad2b8ae1fbaf4cc80
